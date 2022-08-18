@@ -1,0 +1,28 @@
+{
+  "name": "VMIX_Settings",
+  "productName": "VMIX_Settings",
+  "version": "1.0.0",
+  "description": "A utility that pulls from VMIX and writes input names and input numbers to CSV",
+  "main": "src/get_VMIX_Settings.js",
+  "scripts": {
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": "danielthompson",
+  "license": "MIT",
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+    }
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DThompson55/get_VMIX_setup.git"
+  }
+}
