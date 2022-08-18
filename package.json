@@ -10,11 +10,7 @@
   "keywords": [],
   "author": "danielthompson",
   "license": "MIT",
-  "config": {
-    "forge": {
-      "packagerConfig": {},
-    }
-  },
+  
   "dependencies": {
     "axios": "^0.26.1",
     "xml2js": "^0.4.23"
