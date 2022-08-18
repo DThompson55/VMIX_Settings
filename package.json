@@ -5,7 +5,7 @@
   "description": "A utility that pulls from VMIX and writes input names and input numbers to CSV",
   "main": "src/get_VMIX_Settings.js",
   "scripts": {
-    "lint": "echo \"No linting configured\""
+    "start": "node src/get_VMIX_Settings"
   },
   "keywords": [],
   "author": "danielthompson",
